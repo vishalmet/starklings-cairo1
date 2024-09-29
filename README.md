@@ -143,7 +143,6 @@ cargo run -r --bin starklings run new_exercise
 5. Send your PR!
 
 ### Updating Rust logic/Cairo version
-
 1. [Test](#testing) your changes.
 2. Make sure you have solutions to all the exercises in `./solutions` directory.
 3. Run `cargo run -r --bin starklings compile_solutions` to confirm all exercise solutions still compile.
